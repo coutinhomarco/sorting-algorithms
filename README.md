@@ -14,4 +14,4 @@ Os resultados, discussões e especificações encontram-se no <a target = "_blan
 
 
 
-&#42;Os códigos foram extraidos da internet&#42;
+&#42;Os códigos dos algoritmos foram extraidos da internet, todo o resto foi de criação própria.&#42;
