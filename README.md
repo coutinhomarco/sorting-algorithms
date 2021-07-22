@@ -5,7 +5,7 @@
 <h4>Autores:</h4>
 <ul> <li><a target = "_blank" href = "https://www.linkedin.com/in/coutinhomarco/">Marco Soares Coutinho</a></li>
   <li>Matheus Henrique Araújo</li>
-  <li>Rubens Diniz</li>
+  <li> <a target = "_blank" href = "https://www.linkedin.com/in/rubens-caram-29696b19b" >Rubens Diniz </a></li>
 </ul>
 
 O estudo realizado tem como objetivo <strong>analisar o desempenho dos algoritmos de ordenação</strong> Bubble Sort, Merge Sort, Insertion Sort, Shell Sort  e Selection Sort  para diferentes quantidades de vetores. Para tanto, desenvolveu-se&#42; um código em linguagem Python em que tempo de execução dos referidos algoritmos foi medido enquanto ordenavam um determinado número de vetores aleatórios, sendo que essa quantidade é aumentada em intervalos iguais até atingir o número máximo de vetores pré-estabelecido. A fim de otimizar a comparação dos desempenhos, os dados coletados foram utilizados para gerar gráficos do tempo de ordenação em função da quantidade de vetores.
